@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>New Session 2</title>
+    </head>
+    <body>
+    <!-- 
+        1. Block Element
+            Start on a new line
+        2. Inline Element
+            Does not start on a new line
+        3.<strong>
+            Define important text.
+            Inline Element
+    -->
+        <p> 
+            I am Lyold and my goal is to become a 
+            <strong>Full Stack Developer</strong>.
+        </p>
+    <!-- 
+        4.<hr />
+        Horizontal rule acroess the width of the content
+        No closing
+        Block Element
+    -->
+    <!--
+        5.<q>
+            Qoute a short message.
+            Inline Element
+    -->
+      <p> My favorite book is <cite>Da Vinci Code</cite> by Dan Brown</p>
+      <p> My favorite show is <cite> Dora: The Explorer</cite></p>
+    <!--
+        8.<em>
+            Defines emphasize text.
+            Inline Element
+    -->
+    <!--
+        9.<address>
+            Defines a contact info, like email, URL, physical address, phone number
+    -->
+    <br />
+    <br />
+    <address>
+        Phone Number: 0967 258 7715<br />
+        Email: lloyd_time_is_gold@email.com Address:<br />
+        GMA, Cavite, Philippines<br />
+    </address>
+    <!--
+        10. <details>
+            Specifies additional details.
+            Creates an interactive widget that the use
+            Block Element
+        11. <summary>
+            Defines a visible heading for the <details>
+            Block Element
+    -->
+    <details>
+     <summary> World Wide Web Consortium</summary>
+     <p>
+        The World Wide Web Consortium is the main international 
+     </p>
+    </details>
+     <p>My favorite subjects in order of how much I like them:</p>
+    <!--
+        12. <ol>
+                Defines an ordered list
+                Block element.
+        13. <li>
+                Defines a list item.
+                Block element.
+    -->
+    <ol>
+        <li>PE</li>
+        <li>Web App</li>
+        <li>Human Interaction</li>
+    </ol>
+    
+    <ul>
+        <li>Eat</li>
+        <li>Sleep</li>
+        <li>Bible Study</li>
+    </ul>
+    <!--
+        15.<table>
+            Defines a table.
+    -->
+    <table>
+    <!-- 
+        16. <caption>
+            Gives
+    -->
+        <caption>
+            Work Experience
+        </caption>
+    <thread>
+        <tr> 
+            <th>Role</th>
+            <th>Company</th>
+            <th>Year</th>
+        </tr>
+    </thread>
+    <tbody>
+        <tr> 
+            <td>Developer</td>
+            <td>UD</td>
+            <td>2020</td>
+        </tr>
+        <tr>
+            <td>Senior Developer</td>
+            <td>Ateneo</td>
+            <td>2021</td>
+        </tr>
+        <tr>
+            <td>Lead Developer</td>
+            <td>Lead Developer</td>
+        </tr>
+    </tbody>
+    </table>
+    </body>
+</html>
