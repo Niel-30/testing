@@ -1,0 +1,140 @@
+h1 
+{ 
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+
+p 
+{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
+
+
+.default-first 
+{
+    color: violet;
+    font-family: Arial;
+}
+
+.padding 
+{
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.paddingTitle {
+    padding-left: 650px;
+    padding-right: 650px;
+}
+
+
+.container 
+{
+    display: flex;
+}
+
+
+.column 
+{
+    flex: 1;
+    padding: 20px;
+}
+
+h2 {
+    color: rgb(255, 0, 157);
+    font-family: Arial;
+    text-align: center;
+}
+
+#background-color 
+{
+    background-color: pink;
+}
+
+.underline-text 
+{
+    text-decoration: underline;
+}
+
+h3 
+{
+    color: rgb(0, 255, 234);
+    font-family: Arial;
+    text-align: center;
+}
+
+.default-second 
+{
+    color: orange;
+    font-family: Arial;
+}
+
+.default-third 
+{
+    color: red;
+    font-family: Arial;
+}
+
+.bold-text
+{
+    font-weight: bold;
+}
+
+.uppercase-text 
+{
+    text-transform: uppercase;
+}
+
+.shadowed-text 
+{
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.box-shadow 
+{
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.absolute 
+{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+ul 
+{
+    list-style-type: square;
+}
+
+.transparent 
+{
+    opacity: 0.7;
+}
+
+
+.font-style 
+{
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.rotate 
+{
+    transform: rotate(90deg);
+}
+
+.gradient-background 
+{
+    background: linear-gradient(to right, #ff5733, #1900ff);
+}
+
+.lowercase-text 
+{
+    text-transform: lowercase;
+}
