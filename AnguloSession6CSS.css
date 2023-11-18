@@ -1,0 +1,19 @@
+.flex-container{
+    width: 100%;
+    height: auto;
+    justify-content: center;
+}
+
+.flex-container2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-box{
+    width: 100px;
+    height: 100px;
+    background: orange;
+    margin: 10px;
+}
